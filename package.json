@@ -1,0 +1,16 @@
+{
+  "name": "scrabble-scorer",
+  "version": "1.0.0",
+  "description": "intro to prof web dev assignment 2",
+  "main": "scrabble-scorer.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.6.3",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
